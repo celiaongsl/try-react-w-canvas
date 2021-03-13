@@ -1,0 +1,11 @@
+.splash-container {
+  /* background-color: #101010; */
+  padding-top: 25px;
+  /* height: 100vh; */
+}
+
+.quiz-text {
+  padding-top: 45px;
+  text-align: center;
+  /* color: white; */
+}

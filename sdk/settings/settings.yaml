@@ -1,0 +1,7 @@
+defaultLocale: en
+localizedSettings:
+  displayName: Dr. React
+  pronunciation: Dr. React
+  voice: female_1
+projectId: react-w-canvas
+usesInteractiveCanvas: true

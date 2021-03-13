@@ -1,0 +1,8 @@
+# transitionToScene: Prompts
+handler:
+  staticPrompt:
+    candidates:
+    - promptResponse:
+        canvas:
+          url: https://react-w-canvas.web.app/
+transitionToScene: Prompts
